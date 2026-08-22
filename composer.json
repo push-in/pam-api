@@ -2,6 +2,7 @@
     "name": "pushinbr/pam-api",
     "description": "Compatibility package for pushinbr/pam-http.",
     "type": "metapackage",
+    "abandoned": "pushinbr/pam-http",
     "license": "Apache-2.0",
     "require": {
         "pushinbr/pam-http": "^1.1"
